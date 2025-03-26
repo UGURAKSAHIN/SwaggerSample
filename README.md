@@ -22,38 +22,4 @@ Prerequisites
 
 -Postman (optional, for API testing)
 
-🔧 Setup and Installation
 
-Clone the repository
-
--git clone https://github.com/your-username/swagger-api-docs.git
-
--cd swagger-api-docs
-
-Build the project
-
--dotnet build
-
-Run the application
-
--dotnet run
-
-Open your browser and navigate to:
-
--Swagger UI: http://localhost:5000/swagger
-
--JSON Docs: http://localhost:5000/swagger/v1/swagger.json
-
--YAML Docs: http://localhost:5000/swagger/v1/swagger.yaml (if supported)
-
-📬 Contributing
-
--Fork the repository.
-
--Create a new branch (git checkout -b feature-branch).
-
--Commit your changes (git commit -m "Added new feature").
-
--Push to the branch (git push origin feature-branch).
-
--Open a pull request.
